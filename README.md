@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vansh Tandon</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3
 
 <br />
 
@@ -22,15 +21,14 @@
 
 
 
-
-
 Some little information :smiley: :
 
+<h3 align="justify">I'm an Indian Undergraduate Student currently undertaking a Bachelor's in Computer Science and Engineering from G.B Pant Institute of Engineering and Technology, and I am a self-taught Full-stack developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience. Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas for unforgettable marketing campaigns. I have an experience of more than a year in MERN stack Technology and creative UI/UX designer. My main focus is to develop android and web Apps.</h3>
 
-- 🌱 I’m currently actively learning JavaScript
 - 👯 I’m looking to collaborate on Web Application Projects
 - 📫 How to reach me: **_vanshtandon1067@gmail.com_**
-- I am a ✨ _B.Tech Computer Science Pre-Final Year Student_ ✨ 
+
+<br>
 
 
 - ⚡ Fun fact:
