@@ -58,7 +58,7 @@ Thanks!! ✌️
 <a href="https://www.linkedin.com/in/vanshTandon1067/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vansh Tandon" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/14267268/vansh-tandon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Vansh Tandon" height="30" width="30" /></a>
 <a href="https://www.facebook.com/vansh.tandon.56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Vansh Tandon" height="30" width="30" /></a>
-<a href="https://instagram.com/tandon_09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr_tandon02" height="30" width="30" /></a>
+<a href="https://www.instagram.com/hack_script/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr_tandon02" height="30" width="30" /></a>
 
 
 
