@@ -4,11 +4,11 @@
 
 <h3 align="center">Who Am I ?</h3>
 
-<h5 align="justify" >I'm an Indian Undergraduate Student currently undertaking a Bachelor's in Computer Science and Engineering from G.B Pant Institute of Engineering and Technology, and I am a self-taught Full-stack developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience. Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas for unforgettable marketing campaigns. I have an experience of more than a year in MERN stack Technology and creative UI/UX designer. My main focus is to develop android and web Apps.</h5>
+<h5 align="justify" >I'm an Indian Undergraduate Student currently undertaking a Bachelor's in Computer Science and Engineering from G.B Pant Institute of Engineering and Technology, and I am a self-taught Full-stack developer with a strong eye for innovative design and a keen understanding of techniques geared toward optimum user experience. Extremely motivated to constantly develop my skills and grow professionally. I am confident in my ability to come up with interesting ideas for unforgettable marketing campaigns. I have an experience of more than a year in MERN stack Technology and React Native android app development with creative UI/UX design. My main focus is to develop android and web Apps.</h5>
 
 - 👯 I’m looking to collaborate on Web Application Projects
-- 🔭 I’m currently working on React framework.I am also contributing to some open source.
-- 🌱 I’m currently learning Sass
+- 🔭 I’m currently working on Next JS and React Native framework.I am also contributing to some open source.
+
 
 <br/>
 
